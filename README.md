@@ -4,7 +4,7 @@ I'm Mehedi Hasan a Full Stack Web Developer. I really like learning new language
 
 ## Skills
 * Languages: `JavaScript` / `TypeScript`
-* Front-End: `ReactJs` / `NextJs` / `Redux` / `TailwindCSS` / `Bootstrap` / `SASS`
+* Front-End: `ReactJs` / `NextJs` / `Redux` / `TailwindCSS` / `Bootstrap` / `SASS` / `CSS` / `HTML`
 * Back-End: `ExpressJs` / `NodeJs` / `MongoDB` / `Mongoose`
 * Auth: `Firebase` / `Next-Auth` / `Auth0`
 * Unit-Testing: `Jest` / `React` `Testing` `Library`

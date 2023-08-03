@@ -8,6 +8,7 @@ I'm Mehedi Hasan a Full Stack Web Developer. I really like learning new language
 * Back-End: `ExpressJs` / `NodeJs` / `MongoDB` / `Mongoose`
 * Auth: `Firebase` / `Next-Auth` / `Auth0`
 * Unit-Testing: `Jest` / `React Testing Library`
+* Animation: `Jsap` / `Framer Motion`
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasan2810)](https://github.com/anuraghazra/github-readme-stats)

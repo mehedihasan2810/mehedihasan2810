@@ -7,7 +7,7 @@ I'm Mehedi Hasan a Full Stack Web Developer. I really like learning new language
 * Front-End: `ReactJs` / `NextJs` / `Redux` / `TailwindCSS` / `Bootstrap` / `SASS` / `CSS` / `HTML`
 * Back-End: `ExpressJs` / `NodeJs` / `MongoDB` / `Mongoose`
 * Auth: `Firebase` / `Next-Auth` / `Auth0`
-* Unit-Testing: `Jest` / `React` `Testing` `Library`
+* Unit-Testing: `Jest` / `React Testing Library`
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasan2810)](https://github.com/anuraghazra/github-readme-stats)

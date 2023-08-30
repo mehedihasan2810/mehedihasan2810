@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-I'm Mehedi Hasan a Full Stack Web Developer. I really like learning new languages, frameworks, or libraries. 
+I'm Mehedi Hasan a web developer who is passionate about creating websites that not only have stunning visuals but also provide fantastic user experiences. I also like learning new technologies.
 
 ## Skills
-* Languages: `JavaScript` / `TypeScript`
-* Front-End: `ReactJs` / `NextJs` / `Redux` / `TailwindCSS` / `Bootstrap` / `SASS` / `CSS` / `HTML`
-* Back-End: `ExpressJs` / `NodeJs` / `MongoDB` / `Mongoose`
-* Auth: `Firebase` / `Next-Auth` / `Auth0`
-* Unit-Testing: `Jest` / `React Testing Library`
-* Animation: `Jsap` / `Framer Motion`
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasan2810)](https://github.com/anuraghazra/github-readme-stats)
+* Languages: `JavaScript` `TypeScript`
+* Front-End: `ReactJs` `NextJs` `Redux` `TailwindCSS` `Bootstrap` `SASS` `CSS` `HTML`
+* Back-End: `ExpressJs` `NodeJs` `MongoDB` `Mongoose`
+* Auth: `Firebase` `Next-Auth` `Auth0`
+* Unit-Testing: `Jest` `React Testing Library`
+* Animation: `Jsap` `Framer Motion`

@@ -8,4 +8,4 @@ I'm Mehedi Hasan a web developer who is passionate about creating websites that 
 * Back-End: `ExpressJs` `NodeJs` `MongoDB` `Mongoose`
 * Auth: `Firebase` `Next-Auth` `Auth0`
 * Unit-Testing: `Jest` `React Testing Library `
-* Animation: `Jsap` `Framer Motion`
+* Animation: `Jsap`

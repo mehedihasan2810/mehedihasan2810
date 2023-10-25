@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Mehedi Hasan a web developer who is passionate about creating websites that not only have stunning visuals but also provide fantastic user experiences. I also enjoy learning new technologies.
+Hi there, I'm Mehedi Hasan a web developer who is passionate about creating websites that 
+not only have stunning visuals but also provide fantastic user experiences 
+and who also enjoys learning new technologies.
 
 ## Skills
 * Languages: `JavaScript` `TypeScript`

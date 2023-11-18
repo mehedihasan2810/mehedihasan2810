@@ -7,7 +7,7 @@ and who also enjoys learning new technologies.
 ## Skills
 * Languages: `JavaScript` `TypeScript`
 * Front-End: `ReactJs` `NextJs` `GraphQL` `Redux` `TailwindCSS` `Bootstrap` `SASS` `CSS` `HTML`
-* Back-End: `ExpressJs` `NodeJs` `MongoDB` `Mongoose`
+* Back-End: `ExpressJs` `NodeJs` `Prisma` `MongoDB` `Mongoose`
 * Auth: `Firebase` `Next-Auth` `Auth0`
 * Unit-Testing: `Jest` `React Testing Library`
 * Animation: `Jsap`

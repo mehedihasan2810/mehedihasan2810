@@ -8,6 +8,6 @@ and who also enjoys learning new technologies.
 * Languages: `JavaScript` `TypeScript`
 * Front-End: `ReactJs` `NextJs` `GraphQL` `Redux` `React Query` `TailwindCSS` `Bootstrap` `SASS` `CSS` `HTML`
 * Back-End: `ExpressJs` `NodeJs` `Prisma` `MongoDB` `Mongoose`
-* Auth: `Firebase` `Next-Auth` `Auth0`
+* Auth: `Firebase` `Next-Auth`
 * Unit-Testing: `Jest` `React Testing Library`
 * Animation: `Jsap`

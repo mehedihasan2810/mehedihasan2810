@@ -5,7 +5,7 @@ I'm Mehedi Hasan. A web developer who is passionate about building beautiful web
 ## Skills
 * Languages: `JavaScript` `TypeScript`
 * Front-End: `ReactJs` `NextJs` `GraphQL` `Redux` `React Query` `TailwindCSS` `Bootstrap` `SASS` `CSS` `HTML`
-* Back-End: `ExpressJs` `NodeJs` `Prisma` `MongoDB` `Mongoose`
+* Back-End: `ExpressJs` `NodeJs` `Prisma` `MongoDB` `Mongoose` `MySQL - beginner - learning` `PostgresSQL - beginner - learning`
 * Auth: `Firebase` `Next-Auth`
 * Unit-Testing: `Jest` `React Testing Library`
 * Animation: `Jsap`

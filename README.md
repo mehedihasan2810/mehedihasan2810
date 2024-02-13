@@ -5,12 +5,12 @@ I'm Mehedi Hasan. A web developer who is passionate about building beautiful web
 ## Skills
 * Languages: `JavaScript` `TypeScript`
 * Front-End: `ReactJs` `NextJs` `GraphQL` `Redux` `React Query` `TailwindCSS` `Bootstrap` `SASS` `CSS` `HTML`
-* Back-End: `ExpressJs` `NodeJs` `Prisma` `MongoDB` `Mongoose` `MySQL - beginner - learning`
+* Back-End: `ExpressJs` `NodeJs` `Prisma` `MongoDB` `Mongoose` `MySQL`
 * Auth: `Firebase` `Next-Auth`
 * Unit-Testing: `Jest` `React Testing Library`
 * Animation: `Jsap`
 
-[***LinkedIn***](https://www.linkedin.com/in/md-mehedi-hasan2810/) | [***Checkout my portfolio website***](https://mehedidev.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/md-mehedi-hasan2810/) | [Portfolio](https://mehedidev.vercel.app/)
 
 ## GitHub Stats
 

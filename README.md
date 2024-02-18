@@ -14,7 +14,7 @@ I'm Mehedi Hasan. A web developer who is passionate about building beautiful web
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehedihasan2810&show_icons=true&locale=en&theme=tokyonight" alt="mehedi's contribution stats on github" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan2810&&theme=tokyonight" alt="mehedi's longest github contribution streak stats" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan2810&layout=compact&theme=tokyonight" alt="Top Languages stats that are used in github" />
+<img src="https://github-readme-stats.vercel.app/api?username=mehedihasan2810&show_icons=true&locale=en&theme=tokyonight" alt="mehedi's contribution stats on github" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan2810&layout=compact&theme=tokyonight" alt="Top Languages stats that are used in github" />
 
 ## Technical Contributions
 

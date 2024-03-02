@@ -1,9 +1,7 @@
 <br/>
-<br/>
 
 Just trying to improve the web experience for everyone
 
-<br/>
 <br/>
 
 ## Skills

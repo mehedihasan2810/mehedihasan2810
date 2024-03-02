@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Just trying to improve the web experience for everyone
+# Just trying to improve the web experience for everyone
 
 ## Skills
 * Languages: `JavaScript` `TypeScript`

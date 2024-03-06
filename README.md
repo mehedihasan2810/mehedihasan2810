@@ -1,6 +1,8 @@
 <br/>
 
 Just trying to improve the web experience for everyone
+
+[LinkedIn](https://www.linkedin.com/in/md-mehedi-hasan2810/) | [Portfolio](https://mehedidev.vercel.app/) | mehedi.hasan.webcraft@gmail.com
  
 ### Tech Stack 
 ![Language](https://img.shields.io/badge/-Language-05122A?style=flat&logo=Language) ![➡](https://img.shields.io/badge/-➡-05122A?style=flat&logo=Arrow) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
@@ -13,8 +15,6 @@ Just trying to improve the web experience for everyone
 <br>
 ![Tools](https://img.shields.io/badge/-Tools-05122A?style=flat&logo=tools) ![➡](https://img.shields.io/badge/-➡-05122A?style=flat&logo=Arrow) ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel) ![Replit](https://img.shields.io/badge/-Replit-05122A?style=flat&logo=replit) 
  ![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=Confluence) ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=vs%20code)
-
-[LinkedIn](https://www.linkedin.com/in/md-mehedi-hasan2810/) | [Portfolio](https://mehedidev.vercel.app/)
 
 ### GitHub Stats
 

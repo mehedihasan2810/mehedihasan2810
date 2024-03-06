@@ -5,8 +5,11 @@ Just trying to improve the web experience for everyone
 <br/>
 
 ## Skills
-* Languages: `JavaScript` `TypeScript`
-* Front-End: `ReactJs` `NextJs` `GraphQL` `Redux` `React Query` `TailwindCSS` `Bootstrap` `SASS` `CSS` `HTML`
+
+* Languages: <br>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+* Front-End: <br>
+  ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React.js) ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js) ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL) ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux) ![React Query](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=React-Query) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap) ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML)
 * Back-End: `ExpressJs` `NodeJs` `Prisma` `MongoDB` `Mongoose` `MySQL`
 * Auth: `Firebase` `Next-Auth`
 * Unit-Testing: `Jest` `React Testing Library`
